@@ -2,7 +2,7 @@
 
 A bronze → silver → gold lakehouse for retail sales and customer data, featuring a tested **SCD Type 2** customer dimension, a declarative **data-quality framework** with quarantine, and **point-in-time** joins in the gold layer.
 
-![CI](https://github.com/GITHUB_USERNAME/lakehouse-medallion-pyspark/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/santhosh-dataops/lakehouse-medallion-pyspark/actions/workflows/ci.yml/badge.svg)
 
 ## Architecture
 
